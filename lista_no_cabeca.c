@@ -1,5 +1,6 @@
-#include <stdio.h>
 #include "lista_no_cabeca.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 int vazia(LISTA_LIGADA *lista)
 {
